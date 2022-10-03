@@ -1,0 +1,24 @@
+html,body{
+    overflow-x: hidden;
+}
+/* carousel background */
+.custom-bg{
+    background-color: #FEEAE9;
+}
+/* caragroly styles */
+.bp-ct-bg{
+    background-color: #FD297A;
+}
+.catagory-img img{
+    width: 100px;
+}
+/* buynow button styles */
+.button-clr{
+    background-color: #FD297A;
+}
+.card-footer button:hover{
+    background-color: #ec6c9d!important;
+}
+.subscribe button:hover{
+    background-color: #ec6c9d;
+}
